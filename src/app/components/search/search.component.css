@@ -1,0 +1,9 @@
+.container{
+    margin:auto;
+    padding:20px;
+    display: flex;
+}
+.search-button{
+    background-color: blueviolet;
+    padding:10px
+}
